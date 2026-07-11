@@ -97,9 +97,7 @@
 ---
 
 # 🌐 Coding Profiles
-
-🟨 LeetCode  
-https://leetcode.com/u/leetcode_ujjawal808/
+- 🟨 **LeetCode:** https://leetcode.com/u/Ujjawalbaliyan/
 
 💻 GitHub  
 https://github.com/ujjawal808
