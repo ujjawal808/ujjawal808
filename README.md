@@ -1,61 +1,101 @@
-<h1 align="center">Hi 👋, I'm Ujjawal Baliyan</h1>
-<h3 align="center">MCA Student | Java Developer | DSA Enthusiast | Aspiring Software Engineer</h3>
+<div align="center">
+
+# 👋 Hi, I'm Ujjawal Baliyan
+
+### 🚀 MCA Student | Java Developer | DSA Enthusiast | Aspiring Software Engineer
 
 <p align="center">
-  <a href="https://leetcode.com/u/leetcode_ujjawal808/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCA-Student-blue?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java+Developer;DSA+Enthusiast;LeetCode+Problem+Solver;Always+Learning+New+Things!" />
 </p>
 
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
+
+</div>
+
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 MCA Student
-- 💻 Passionate about Java & Data Structures and Algorithms
-- 🌱 Currently solving LeetCode problems daily
-- 🎯 Goal: Crack Product-Based Software Engineering roles
+🎓 MCA Student
+
+💻 Passionate about Software Development
+
+📚 Solving Data Structures & Algorithms in Java
+
+🚀 Interested in Backend Development & Problem Solving
+
+🎯 Goal: Crack Product-Based Companies
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 - Java
-- C
 - Python
 - HTML
 - CSS
 - JavaScript
 - React
-- SQL
 - Git & GitHub
 
 ---
 
-## 📂 Featured Projects
+# 📊 GitHub Stats
 
-- 📝 Article Summarizer
+![](https://github-readme-stats.vercel.app/api?username=ujjawal808&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ujjawal808&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal808&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ujjawal808&theme=tokyonight&row=1&column=6)
+
+---
+
+# 💻 Current Focus
+
+✔ Data Structures & Algorithms
+
+✔ Java Development
+
+✔ Full Stack Development
+
+✔ Interview Preparation
+
+---
+
+# 🔗 Connect With Me
+
+- 💻 GitHub: https://github.com/ujjawal808
+- 🟨 LeetCode: https://leetcode.com/u/leetcode_ujjawal808/
+- 📧 Email: ubaliyan808@gmail.com
+
+---
+
+## ⭐ Featured Projects
+
 - 🧠 Brain Tumor Detection using Deep Learning
+- 📰 AI Article Summarizer
+- ☕ Java Pattern Collection
 - 💻 LeetCode Java Solutions
 
 ---
 
-## 🎯 Current Goals
+<div align="center">
 
-- ✅ 100+ LeetCode Problems
-- 🚀 Master DSA
-- 🚀 Build Full-Stack Projects
-- 🚀 Secure a Software Engineering role
+### Thanks for visiting my profile! ⭐
 
----
-
-## 🌐 Connect with Me
-
-- 💼 GitHub: https://github.com/ujjawal808
-- 🟧 LeetCode: https://leetcode.com/u/leetcode_ujjawal808/
-
----
-
-⭐ *"Consistency is the key to becoming a better software engineer."*
+</div>
