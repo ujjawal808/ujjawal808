@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ujjawal Baliyan
 
-### 🚀 MCA Student | Java Developer | DSA Enthusiast | Aspiring Software Engineer
+### 🚀 MCA Student | Java Programmer | DSA Enthusiast | Aspiring Software Development Engineer
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java+Developer;DSA+Enthusiast;LeetCode+Problem+Solver;Always+Learning+New+Things!" />
@@ -25,17 +25,19 @@
 
 # 💫 About Me
 
+
+
 🎓 MCA Student
 
-💻 Passionate about Software Development
+☕ Passionate about Java Programming
 
-📚 Solving Data Structures & Algorithms in Java
+🧩 Focused on Data Structures & Algorithms (DSA)
 
-🚀 Interested in Backend Development & Problem Solving
+💻 Solving LeetCode problems consistently in Java
 
-🎯 Goal: Crack Product-Based Companies
+🎯 Aspiring Software Development Engineer (SDE)
 
----
+📈 Continuously improving problem-solving and coding skills
 
 # 🛠 Tech Stack
 
@@ -65,17 +67,15 @@
 
 ---
 
-# 💻 Current Focus
+# 🎯 Current Focus
 
 ✔ Data Structures & Algorithms
 
-✔ Java Development
+✔ Java Programming
 
-✔ Full Stack Development
+✔ LeetCode Problem Solving
 
-✔ Interview Preparation
-
----
+✔ Interview Preparation for Software Development Engineer (SDE) Roles
 
 # 🔗 Connect With Me
 
