@@ -20,13 +20,17 @@
 <img src="https://img.shields.io/badge/📄%20VIEW%20RESUME-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-<a href="mailto:ubaliyan808@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/ujjawal808/ujjawal808/raw/refs/heads/main/UJJAWAL_RESUME_UPDATED.pdf">
+<img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20RESUME-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
+
+<a href="mailto:ubaliyan808@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/ujjawal808">
 <img src="https://img.shields.io/badge/LinkedIn-Ujjawal808-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -46,6 +50,7 @@
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/DSA-2ea44f?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack-Development-61DAFB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -93,6 +98,7 @@
 - Problem Solving
 - Object-Oriented Programming
 - LeetCode Practice
+- Time & Space Complexity
 
 </td>
 
@@ -105,6 +111,7 @@
 - Backend Development
 - API Integration
 - Database Management
+- Responsive Web Development
 
 </td>
 
@@ -121,6 +128,7 @@
 - AI-powered Applications
 - GPT-4 API Integration
 - Image Classification
+- AI-assisted Solutions
 
 </td>
 
@@ -218,6 +226,11 @@ A socially focused project designed to promote awareness, encourage conversation
 - 🌐 Responsive Web Interface
 - 📚 Informational Content
 - ❤️ Social Impact
+- 🎨 User-friendly interface
+
+### 🛠️ Focus
+
+`Web Development` `HTML` `CSS` `JavaScript`
 
 <p>
 <a href="https://github.com/ujjawal808/Mental-Health-Awareness-and-suicide-prevention">
@@ -250,7 +263,7 @@ Built using React.js, Node.js, and GPT-4 API to transform lengthy articles into 
 
 <p>
 <a href="https://github.com/ujjawal808">
-<img src="https://img.shields.io/badge/🔗%20EXPLORE%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20EXPLORE%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -293,25 +306,25 @@ Built using React.js, Node.js, and GPT-4 API to transform lengthy articles into 
 DSA is one of my primary areas of focus while preparing for software engineering interviews.
 
 ```text
-              PROBLEM
-                 │
-                 ▼
-             UNDERSTAND
-                 │
-                 ▼
-              ANALYZE
-                 │
-                 ▼
-            BRUTE FORCE
-                 │
-                 ▼
-              OPTIMIZE
-                 │
-                 ▼
-             IMPLEMENT
-                 │
-                 ▼
-               TEST
-                 │
-                 ▼
-              IMPROVE
+                    PROBLEM
+                       │
+                       ▼
+                  UNDERSTAND
+                       │
+                       ▼
+                    ANALYZE
+                       │
+                       ▼
+                 BRUTE FORCE
+                       │
+                       ▼
+                   OPTIMIZE
+                       │
+                       ▼
+                  IMPLEMENT
+                       │
+                       ▼
+                     TEST
+                       │
+                       ▼
+                   IMPROVE\
