@@ -1,20 +1,32 @@
 <div align="center">
 
-<img src="https://github.com/ujjaw808.png" width="150" height="150" alt="Ujjawal Baliyan"/>
+<img src="https://github.com/ujjawal808.png" width="160" height="160" alt="Ujjawal Baliyan"/>
 
 # 👋 Hi, I'm Ujjawal Baliyan
 
-### 🚀 MCA Student | Java & DSA Enthusiast | Full Stack Developer | Aspiring Software Engineer
+### 🚀 MCA Student | Java & DSA Enthusiast | Full Stack Developer | AI Explorer | Aspiring Software Engineer
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Java+%7C+C+%7C+Data+Structures+%26+Algorithms;Full+Stack+Web+Development;AI-Powered+Projects;LeetCode+Problem+Solver;Building+Skills+for+Software+Engineering+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=Welcome+to+My+GitHub!;Java+%7C+C+%7C+Data+Structures+%26+Algorithms;Full+Stack+Web+Development;AI-Powered+Applications;LeetCode+Problem+Solver;Building+Skills+for+Software+Engineering+Roles" />
 </p>
 
 <p align="center">
 
-<a href="mailto:ubaliyan808@gmail.com">
-<img src="https://img.shields.io/badge/Email-ubaliyan808%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://portfolio-ujjawal809.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+<a href="https://github.com/ujjawal808/ujjawal808/blob/main/UJJAWAL_RESUME_UPDATED.pdf">
+<img src="https://img.shields.io/badge/📄%20RESUME-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+<a href="mailto:ubaliyan808@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
 
 <a href="https://linkedin.com/in/ujjawal808">
 <img src="https://img.shields.io/badge/LinkedIn-Ujjawal808-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -30,18 +42,6 @@
 
 </p>
 
-<p align="center">
-
-<a href="https://github.com/ujjawal808/ujjawal808/blob/main/UJJAWAL_RESUME_UPDATED.pdf">
-<img src="https://img.shields.io/badge/📄%20VIEW%20RESUME-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ujjawal808/ujjawal808/raw/refs/heads/main/UJJAWAL_RESUME_UPDATED.pdf">
-<img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20RESUME-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-</p>
-
 <br>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/DSA-2ea44f?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack-Development-61DAFB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 </div>
 
@@ -63,19 +63,19 @@
 
 ☕ Building strong programming fundamentals with **Java and C**.
 
-🌐 Interested in **Full Stack Web Development** and creating practical web applications.
+🌐 Interested in **Full Stack Web Development** and creating practical, user-focused applications.
 
 🤖 Exploring **AI-powered applications, Deep Learning, and intelligent software solutions**.
 
-💼 Experienced in **Full Stack Development** through internship experience at Technology Business Incubator (TBI-GEU).
+💼 Experienced in **Full Stack Development** through my internship at Technology Business Incubator (TBI-GEU).
 
 ☁️ Exploring **Microsoft Azure and Databricks** to understand modern cloud technologies.
 
 🧩 Practicing coding problems through **LeetCode** to strengthen technical interview skills.
 
-🎯 Currently preparing for **Software Development / Software Engineer roles**.
+🎯 Preparing for **Software Development / Software Engineer roles**.
 
-> **Code with logic. Build with purpose. Learn continuously. 🚀**
+> **Think logically. Code efficiently. Build consistently. 🚀**
 
 ---
 
@@ -90,7 +90,7 @@
 
 * Data Structures & Algorithms
 * Algorithmic Thinking
-* Competitive Problem Solving
+* Problem Solving
 * Object-Oriented Programming
 * LeetCode Practice
 
@@ -103,7 +103,7 @@
 * Full Stack Development
 * Frontend Development
 * Backend Development
-* REST/API Integration
+* API Integration
 * Database Management
 
 </td>
@@ -118,7 +118,7 @@
 
 * Deep Learning
 * CNN-based Classification
-* AI-powered Web Applications
+* AI-powered Applications
 * GPT-4 API Integration
 * Image Classification
 
@@ -126,7 +126,7 @@
 
 <td width="50%" valign="top">
 
-### ☁️ Cloud & Developer Tools
+### ☁️ Cloud & Tools
 
 * Microsoft Azure
 * Databricks
@@ -144,36 +144,28 @@
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java,c,python" />
-
 </p>
 
 ### 🌐 Web Development
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flask" />
-
 </p>
 
 ### 🗄️ Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql" />
-
 </p>
 
-### 🔧 Tools
+### 🔧 Developer Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
 </p>
 
 ### ☁️ Cloud & AI
@@ -194,7 +186,7 @@ An AI-powered web application designed to detect and classify brain tumors using
 
 * 🧠 MRI-based tumor classification
 * 🤖 CNN / Deep Learning model
-* ⚡ Real-time inference through Flask
+* ⚡ Real-time inference using Flask
 * 🖼️ Image upload and prediction
 * 🔐 Secure user authentication
 * 📊 Prediction result visualization
@@ -205,7 +197,7 @@ An AI-powered web application designed to detect and classify brain tumors using
 
 `Python` `Flask` `TensorFlow/Keras` `HTML` `CSS` `JavaScript` `SQLAlchemy`
 
-### 🔗 Explore Project
+### 🔗 Repository
 
 <p>
 
@@ -219,19 +211,19 @@ An AI-powered web application designed to detect and classify brain tumors using
 
 ## 🧠 Mental Health Awareness & Suicide Prevention
 
-> **A web project focused on spreading mental health awareness and providing supportive resources.**
+> **A web-based awareness project focused on mental health education and accessible supportive resources.**
 
-Designed to create an accessible digital platform that promotes awareness, encourages conversations around mental well-being, and provides useful information.
+A socially focused project designed to promote awareness, encourage conversations around mental well-being, and provide useful informational resources.
 
 ### ✨ Focus Areas
 
 * 🧠 Mental Health Awareness
 * 💬 Awareness & Education
 * 🌐 Responsive Web Interface
-* 📚 Informational Resources
+* 📚 Informational Content
 * ❤️ Social Impact
 
-### 🔗 Explore Project
+### 🔗 Repository
 
 <p>
 
@@ -258,37 +250,46 @@ Built using React.js, Node.js, and GPT-4 API to transform lengthy articles into 
 * 📝 Article processing
 * 📊 Responsive result visualization
 * ⚡ Real-time summary generation
-* 📉 Reduces article length by approximately **60–80%** while preserving key information
+* 📉 Approximately **60–80% article length reduction** while preserving key information
 
 ### 🛠️ Tech Stack
 
 `React.js` `Node.js` `JavaScript` `GPT-4 API` `HTML` `CSS`
 
-### 🔗 Explore GitHub
-
-<p>
+### 🔗 GitHub
 
 <a href="https://github.com/ujjawal808">
-<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
 
 ---
 
-## 🌐 Personal Portfolio
+# 🌐 Personal Portfolio
 
-> **Personal developer portfolio showcasing projects, skills, and professional profile.**
+## 🚀 My Developer Portfolio
 
-### 🔗 Explore
+> **Explore my projects, skills, experience, and professional profile in one place.**
 
-<p>
+<p align="center">
+
+<a href="https://portfolio-ujjawal809.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20OPEN%20LIVE%20PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://github.com/ujjawal808/portfolio">
-<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO%20REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20PORTFOLIO%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
+### ⚡ Portfolio Highlights
+
+* 👨‍💻 Developer profile
+* 🚀 Featured projects
+* 🧠 Technical skills
+* 📄 Resume access
+* 🌐 Professional contact links
+* 📱 Responsive web experience
 
 ---
 
@@ -296,7 +297,7 @@ Built using React.js, Node.js, and GPT-4 API to transform lengthy articles into 
 
 ## 🧠 My Problem-Solving Approach
 
-DSA is one of my primary areas of focus as I prepare for software engineering interviews.
+DSA is one of my primary areas of focus while preparing for software engineering interviews.
 
 ```text
               PROBLEM
@@ -308,7 +309,7 @@ DSA is one of my primary areas of focus as I prepare for software engineering in
               ANALYZE
                  │
                  ▼
-             BRUTE FORCE
+            BRUTE FORCE
                  │
                  ▼
               OPTIMIZE
@@ -347,7 +348,7 @@ DSA is one of my primary areas of focus as I prepare for software engineering in
 
 </p>
 
-> 🎯 **Goal:** Turn problem-solving practice into strong interview-ready fundamentals.
+> 🎯 **Goal:** Turn consistent DSA practice into strong interview-ready problem-solving skills.
 
 ---
 
@@ -359,7 +360,7 @@ DSA is one of my primary areas of focus as I prepare for software engineering in
 
 📅 **November 2024 – February 2025**
 
-### 🔹 Experience
+### 🔹 Experience Highlights
 
 * Applied full-stack web development and software engineering practices.
 * Implemented new features and UI improvements.
@@ -409,13 +410,9 @@ Completed a **25-hour Microsoft Azure cloud fundamentals training program**.
 
 ### 📚 Areas Covered
 
-* ☁️ Azure Virtual Machines
-* 🌐 Networking
-* 💾 Storage
-* 🔐 Identity Management
-* 🚀 Cloud Deployment
-* 🌍 Application Hosting
-* ☁️ Core Azure Services
+`Azure Virtual Machines` • `Networking` • `Storage`
+
+`Identity Management` • `Cloud Deployment` • `Application Hosting`
 
 ---
 
@@ -486,25 +483,25 @@ Data Structures & Algorithms
 # 🏆 Developer Journey
 
 ```text
-        Programming Fundamentals
+       Programming Fundamentals
                   │
                   ▼
-       Data Structures & Algorithms
+      Data Structures & Algorithms
                   │
                   ▼
-         LeetCode Problem Solving
+        LeetCode Problem Solving
                   │
                   ▼
-         Full Stack Development
+        Full Stack Development
                   │
                   ▼
-            AI-Powered Apps
+          AI-Powered Projects
                   │
                   ▼
-          Cloud Technologies
+        Cloud & Azure Technologies
                   │
                   ▼
-          Software Engineer 🚀
+           Software Engineer 🚀
 ```
 
 ---
@@ -522,18 +519,20 @@ Data Structures & Algorithms
 | ☁️ Cloud           | Microsoft Azure & Databricks           |
 | 🗄️ Database       | MySQL                                  |
 | 🧩 Coding Platform | LeetCode                               |
+| 🌐 Portfolio       | portfolio-ujjawal809.vercel.app        |
 | 🎯 Career Goal     | Software Developer / Software Engineer |
 
 ---
 
 # 📂 Featured Repositories
 
-| Project                                                                                                    | Description                      | Technology                  |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------- |
-| 🧠 [Brain Tumor Detection](https://github.com/ujjawal808/Brain_Tumor_Detection)                            | AI-powered MRI classification    | Python • Flask • TensorFlow |
-| 🧠 [Mental Health Awareness](https://github.com/ujjawal808/Mental-Health-Awareness-and-suicide-prevention) | Mental health awareness platform | Web Development             |
-| 🌐 [Portfolio](https://github.com/ujjawal808/portfolio)                                                    | Personal developer portfolio     | Web Development             |
-| 🧩 [LeetCode](https://github.com/ujjawal808/Leetcode)                                                      | DSA & coding solutions           | Java • DSA                  |
+| Project                                                                                                    | What It Shows                          | Technology                  |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------- | --------------------------- |
+| 🧠 [Brain Tumor Detection](https://github.com/ujjawal808/Brain_Tumor_Detection)                            | AI + Computer Vision + Web Development | Python • Flask • TensorFlow |
+| 🧠 [Mental Health Awareness](https://github.com/ujjawal808/Mental-Health-Awareness-and-suicide-prevention) | Social-impact Web Development          | HTML • CSS • JavaScript     |
+| 📰 [Article Summarizer](https://github.com/ujjawal808)                                                     | Full Stack + Generative AI             | React • Node.js • GPT-4     |
+| 🧩 [LeetCode](https://github.com/ujjawal808/Leetcode)                                                      | DSA + Problem Solving                  | Java • DSA                  |
+| 🌐 [Portfolio](https://github.com/ujjawal808/portfolio)                                                    | Personal Branding + Web Development    | React • Vite                |
 
 ---
 
@@ -541,8 +540,12 @@ Data Structures & Algorithms
 
 <p align="center">
 
+<a href="https://portfolio-ujjawal809.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="mailto:ubaliyan808@gmail.com">
-<img src="https://img.shields.io/badge/Email-ubaliyan808%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/ujjawal808">
@@ -581,7 +584,9 @@ Data Structures & Algorithms
 
 > ### **Think → Code → Solve → Build → Improve**
 
-I believe strong developers are built through **consistent problem solving, practical projects, continuous learning, and the willingness to improve every day.**
+Strong developers aren't built by learning everything at once.
+
+They are built by **solving problems, building real projects, learning from failures, and improving consistently.**
 
 ---
 
