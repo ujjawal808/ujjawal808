@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://raw.githubusercontent.com/ujjawal808/ujjawal808/main/UJJAWAL_RESUME_UPDATED.pdf">
+<a href="https://raw.githubusercontent.com/ujjawal808/ujjawal808/main/UJJAWAL__RESUME.pdf">
 <img src="https://img.shields.io/badge/📄%20RESUME-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
@@ -562,11 +562,11 @@ Data Structures & Algorithms
 
 <p align="center">
 
-<a href="https://raw.githubusercontent.com/ujjawal808/ujjawal808/main/UJJAWAL_RESUME_UPDATED.pdf">
+<a href="https://raw.githubusercontent.com/ujjawal808/ujjawal808/main/UJJAWAL__RESUME.pdf">
 <img src="https://img.shields.io/badge/📄%20VIEW%20RESUME-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ujjawal808/ujjawal808/raw/refs/heads/main/UJJAWAL_RESUME_UPDATED.pdf">
+<a href="https://github.com/ujjawal808/ujjawal808/raw/refs/heads/main/UJJAWAL__RESUME.pdf">
 <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20RESUME-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
