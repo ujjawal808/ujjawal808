@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20RESUME-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-<a href="mailto:ubaliyan808\@gmail.com">
+<a href="mailto:ubaliyan808@gmail.com">
 <img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -80,6 +80,29 @@
 🎯 Preparing for **Software Development / Software Engineer roles**.
 
 > **Think logically. Code efficiently. Build consistently. 🚀**
+
+---
+
+# ⚡ Quick Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🎓%20MCA-GL%20Bajaj-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20Java%20%26%20C-Programming-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20DSA-Problem%20Solving-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20AI-Deep%20Learning-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Full%20Stack-Development-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️%20Azure-Cloud-0078D4?style=for-the-badge"/>
+
+</p>
+
+<table align="center">
+<tr>
+<td align="center"><b>🎓 Education</b><br>MCA • CGPA 8.30</td>
+<td align="center"><b>💼 Experience</b><br>Full Stack Development Intern</td>
+<td align="center"><b>🤖 Projects</b><br>AI + Full Stack Applications</td>
+</tr>
+</table>
 
 ---
 
@@ -201,6 +224,16 @@ An AI-powered web application designed to detect and classify brain tumors using
 
 `Python` `Flask` `TensorFlow/Keras` `HTML` `CSS` `JavaScript` `SQLAlchemy`
 
+### 🔄 Project Workflow
+
+```mermaid
+flowchart LR
+    A[MRI Image] --> B[Preprocessing]
+    B --> C[CNN / Deep Learning Model]
+    C --> D[Multi-Class Prediction]
+    D --> E[Result Visualization]
+```
+
 ### 🔗 Repository
 
 <p>
@@ -259,6 +292,16 @@ Built using React.js, Node.js, and GPT-4 API to transform lengthy articles into 
 ### 🛠️ Tech Stack
 
 `React.js` `Node.js` `JavaScript` `GPT-4 API` `HTML` `CSS`
+
+### 🔄 Project Workflow
+
+```mermaid
+flowchart LR
+    A[Article / URL] --> B[Content Processing]
+    B --> C[GPT-4 API]
+    C --> D[Concise Summary]
+    D --> E[React UI]
+```
 
 ### 🔗 GitHub
 
@@ -420,6 +463,21 @@ Completed a **25-hour Microsoft Azure cloud fundamentals training program**.
 
 ---
 
+# 🎯 Currently Open To
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/💼%20Software%20Development-Roles-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20Full%20Stack-Opportunities-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML-Opportunities-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️%20Cloud%20%26%20Azure-Opportunities-0078D4?style=for-the-badge"/>
+
+</p>
+
+> 🎯 **Goal:** Join a team where I can apply my software development, DSA, full-stack, and AI skills while continuing to learn and contribute to real-world products.
+
+---
+
 # 🎯 Current Focus
 
 <p align="center">
@@ -553,7 +611,7 @@ Data Structures & Algorithms
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:ubaliyan808\@gmail.com">
+<a href="mailto:ubaliyan808@gmail.com">
 <img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -570,6 +628,30 @@ Data Structures & Algorithms
 </a>
 
 </p>
+
+---
+
+# 🔎 Recruiter Snapshot
+
+```text
+Software Development
+├── Java / C
+├── Data Structures & Algorithms
+├── Full Stack Web Development
+├── AI & Deep Learning
+└── Microsoft Azure / Databricks
+
+Experience
+└── Full Stack Development Internship — TBI-GEU
+
+Featured Work
+├── Brain Tumor Detection & Multi-Class Classification
+├── Mental Health Awareness & Suicide Prevention
+└── Open Article Summarizer using GPT-4
+
+Career Direction
+└── Entry-Level Software Development / AI / Full Stack Roles
+```
 
 ---
 
