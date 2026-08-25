@@ -2,9 +2,9 @@
 
 <img src="https://github.com/ujjawal808.png" width="160" height="160" alt="Ujjawal Baliyan"/>
 
-# 👋 Hi, I'm Ujjawal Baliyan
+👋 Hi, I'm Ujjawal Baliyan
 
-### 🚀 MCA Student | Java & DSA Enthusiast | Full Stack Developer | AI Explorer | Aspiring Software Engineer
+🚀 MCA Student | Java & DSA Enthusiast | Full Stack Developer | AI Explorer | Aspiring Software Engineer
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=Welcome+to+My+GitHub!;Java+%7C+C+%7C+Data+Structures+%26+Algorithms;Full+Stack+Web+Development;AI-Powered+Applications;LeetCode+Problem+Solver;Building+Skills+for+Software+Engineering+Roles" />
@@ -53,58 +53,60 @@
 
 </div>
 
----
+💫 About Me
 
-# 💫 About Me
+🎓 MCA student at GL Bajaj College of Technology and Management, building a strong foundation for a career in software engineering.
 
-🎓 **MCA student at GL Bajaj College of Technology and Management**, focused on building a strong foundation in software engineering.
+🧠 Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks.
 
-🧠 Passionate about **Data Structures & Algorithms, problem solving, and writing efficient solutions**.
+☕ Comfortable with Java and C, with a focus on logical thinking, problem solving, and efficient implementation.
 
-☕ Building strong programming fundamentals with **Java and C**.
+🌐 Interested in Full Stack Web Development, with practical exposure to HTML, CSS, JavaScript, and MySQL.
 
-🌐 Interested in **Full Stack Web Development** and creating practical, user-focused applications.
+🤖 Exploring AI-powered applications and Deep Learning, including CNN-based medical image classification and GPT-4 API integration.
 
-🤖 Exploring **AI-powered applications, Deep Learning, and intelligent software solutions**.
+💼 Completed a Full Stack Development Internship at Technology Business Incubator (TBI-GEU) from November 2024 to February 2025.
 
-💼 Experienced in **Full Stack Development** through my internship at Technology Business Incubator (TBI-GEU).
+☁️ Building knowledge in Microsoft Azure and Databricks through hands-on cloud training.
 
-☁️ Exploring **Microsoft Azure and Databricks** to understand modern cloud technologies.
+🎯 Seeking an entry-level Software Development role where I can apply my technical skills, contribute to innovative projects, and grow as a software engineer.
 
-🧩 Practicing coding problems through **LeetCode** to strengthen technical interview skills.
+Think logically. Code efficiently. Build consistently. 🚀
 
-🎯 Preparing for **Software Development / Software Engineer roles**.
-
-> **Think logically. Code efficiently. Build consistently. 🚀**
-
----
-
-# 🧠 What I Bring
+🧠 What I Bring
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ⚡ Problem Solving
+⚡ Problem Solving
 
-* Data Structures & Algorithms
-* Algorithmic Thinking
-* Problem Solving
-* Object-Oriented Programming
-* LeetCode Practice
+Data Structures & Algorithms
+
+Algorithmic Thinking
+
+Problem Solving
+
+Object-Oriented Programming
+
+LeetCode Practice
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 Software Development
+💻 Software Development
 
-* Full Stack Development
-* Frontend Development
-* Backend Development
-* API Integration
-* Database Management
+Full Stack Development
+
+Frontend Development
+
+Backend Development
+
+API Integration
+
+Database Management
 
 </td>
 
@@ -114,90 +116,112 @@
 
 <td width="50%" valign="top">
 
-### 🤖 AI & Intelligent Applications
+🤖 AI & Intelligent Applications
 
-* Deep Learning
-* CNN-based Classification
-* AI-powered Applications
-* GPT-4 API Integration
-* Image Classification
+Deep Learning
+
+CNN-based Classification
+
+AI-powered Applications
+
+GPT-4 API Integration
+
+Image Classification
 
 </td>
 
 <td width="50%" valign="top">
 
-### ☁️ Cloud & Tools
+☁️ Cloud & Tools
 
-* Microsoft Azure
-* Databricks
-* Git & GitHub
-* MySQL
-* VS Code
-* MySQL Workbench
+Microsoft Azure
+
+Databricks
+
+Git & GitHub
+
+MySQL
+
+VS Code
+
+MySQL Workbench
 
 </td>
 
 </tr>
 </table>
 
----
+🛠️ Tech Stack
 
-# 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
+👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,python" />
+<img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-### 🌐 Web Development
+🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flask" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄️ Database
+🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Developer Tools
+🧠 Core Computer Science
+
+Data Structures & Algorithms OOPs DBMS Operating Systems Computer Networks
+
+🔧 Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### ☁️ Cloud & AI
+MySQL Workbench MS Office 365
 
-`Microsoft Azure` `Databricks` `TensorFlow` `Keras` `GPT-4 API`
+☁️ Cloud
 
----
+Microsoft Azure Databricks
 
-# 🚀 Featured Projects
+🤖 AI / Project Technologies
 
-## 🧠 Brain Tumor Detection & Multi-Class Classification
+Python Flask TensorFlow/Keras SQLAlchemy React.js Node.js GPT-4 API
 
-> **Deep Learning based automated brain tumor detection system using MRI images.**
+🚀 Featured Projects
+
+🧠 Brain Tumor Detection & Multi-Class Classification
+
+Deep Learning based automated brain tumor detection system using MRI images.
 
 An AI-powered web application designed to detect and classify brain tumors using a CNN-based deep learning model.
 
-### ✨ Key Highlights
+✨ Key Highlights
 
-* 🧠 MRI-based tumor classification
-* 🤖 CNN / Deep Learning model
-* ⚡ Real-time inference using Flask
-* 🖼️ Image upload and prediction
-* 🔐 Secure user authentication
-* 📊 Prediction result visualization
-* 🌐 Responsive web interface
-* 🗄️ SQLAlchemy database integration
+🧠 MRI-based tumor classification
 
-### 🛠️ Tech Stack
+🤖 CNN / Deep Learning model
 
-`Python` `Flask` `TensorFlow/Keras` `HTML` `CSS` `JavaScript` `SQLAlchemy`
+⚡ Real-time inference using Flask
 
-### 🔗 Repository
+🖼️ Image upload and prediction
+
+🔐 Secure user authentication
+
+📊 Prediction result visualization
+
+🌐 Responsive web interface
+
+🗄️ SQLAlchemy database integration
+
+🛠️ Tech Stack
+
+Python Flask TensorFlow/Keras HTML CSS JavaScript SQLAlchemy
+
+🔗 Repository
 
 <p>
 
@@ -207,68 +231,45 @@ An AI-powered web application designed to detect and classify brain tumors using
 
 </p>
 
----
+📰 Open Article Summarizer Using GPT-4
 
-## 🧠 Mental Health Awareness & Suicide Prevention
-
-> **A web-based awareness project focused on mental health education and accessible supportive resources.**
-
-A socially focused project designed to promote awareness, encourage conversations around mental well-being, and provide useful informational resources.
-
-### ✨ Focus Areas
-
-* 🧠 Mental Health Awareness
-* 💬 Awareness & Education
-* 🌐 Responsive Web Interface
-* 📚 Informational Content
-* ❤️ Social Impact
-
-### 🔗 Repository
-
-<p>
-
-<a href="https://github.com/ujjawal808/Mental-Health-Awareness-and-suicide-prevention">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📰 Open Article Summarizer Using GPT-4
-
-> **Full-stack AI-powered application for generating concise summaries from online articles.**
+Full-stack AI-powered application for generating concise summaries from online articles.
 
 Built using React.js, Node.js, and GPT-4 API to transform lengthy articles into concise summaries while preserving important information.
 
-### ✨ Highlights
+✨ Highlights
 
-* 🤖 GPT-4 powered summarization
-* ⚛️ React.js frontend
-* 🟢 Node.js backend
-* 🔗 GPT-4 API integration
-* 📝 Article processing
-* 📊 Responsive result visualization
-* ⚡ Real-time summary generation
-* 📉 Approximately **60–80% article length reduction** while preserving key information
+🤖 GPT-4 powered summarization
 
-### 🛠️ Tech Stack
+⚛️ React.js frontend
 
-`React.js` `Node.js` `JavaScript` `GPT-4 API` `HTML` `CSS`
+🟢 Node.js backend
 
-### 🔗 GitHub
+🔗 GPT-4 API integration
+
+📝 Article processing
+
+📊 Responsive result visualization
+
+⚡ Real-time summary generation
+
+📉 Approximately 60–80% article length reduction while preserving key information
+
+🛠️ Tech Stack
+
+React.js Node.js JavaScript GPT-4 API HTML CSS
+
+🔗 GitHub
 
 <a href="https://github.com/ujjawal808">
 <img src="https://img.shields.io/badge/EXPLORE%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+🌐 Personal Portfolio
 
-# 🌐 Personal Portfolio
+🚀 My Developer Portfolio
 
-## 🚀 My Developer Portfolio
-
-> **Explore my projects, skills, experience, and professional profile in one place.**
+Explore my projects, skills, experience, and professional profile in one place.
 
 <p align="center">
 
@@ -282,24 +283,26 @@ Built using React.js, Node.js, and GPT-4 API to transform lengthy articles into 
 
 </p>
 
-### ⚡ Portfolio Highlights
+⚡ Portfolio Highlights
 
-* 👨‍💻 Developer profile
-* 🚀 Featured projects
-* 🧠 Technical skills
-* 📄 Resume access
-* 🌐 Professional contact links
-* 📱 Responsive web experience
+👨‍💻 Developer profile
 
----
+🚀 Featured projects
 
-# 🧩 DSA & Problem Solving
+🧠 Technical skills
 
-## 🧠 My Problem-Solving Approach
+📄 Resume access
+
+🌐 Professional contact links
+
+📱 Responsive web experience
+
+🧩 DSA & Problem Solving
+
+🧠 My Problem-Solving Approach
 
 DSA is one of my primary areas of focus while preparing for software engineering interviews.
 
-```text
               PROBLEM
                  │
                  ▼
@@ -322,19 +325,18 @@ DSA is one of my primary areas of focus while preparing for software engineering
                  │
                  ▼
               IMPROVE
-```
 
-### 🎯 Core Topics
+🎯 Core Topics
 
-`Arrays` • `Strings` • `Linked Lists`
+Arrays • Strings • Linked Lists
 
-`Stacks` • `Queues` • `Trees`
+Stacks • Queues • Trees
 
-`Searching` • `Sorting` • `Recursion`
+Searching • Sorting • Recursion
 
-`Hashing` • `Two Pointers` • `Sliding Window`
+Hashing • Two Pointers • Sliding Window
 
-### 🟨 LeetCode
+🟨 LeetCode
 
 <p align="center">
 
@@ -348,75 +350,81 @@ DSA is one of my primary areas of focus while preparing for software engineering
 
 </p>
 
-> 🎯 **Goal:** Turn consistent DSA practice into strong interview-ready problem-solving skills.
+🎯 Goal: Turn consistent DSA practice into strong interview-ready problem-solving skills.
 
----
+💼 Internship Experience
 
-# 💼 Internship Experience
+Full Stack Development Intern
 
-## Full Stack Development Intern
+Technology Business Incubator — TBI-GEU
 
-### Technology Business Incubator — TBI-GEU
+📅 November 2024 – February 2025
 
-📅 **November 2024 – February 2025**
+🔹 Experience Highlights
 
-### 🔹 Experience Highlights
+Applied full-stack web development and software engineering best practices.
 
-* Applied full-stack web development and software engineering practices.
-* Implemented new features and UI improvements.
-* Enhanced website functionality and user experience.
-* Debugged and optimized web applications.
-* Worked on practical software development tasks.
+Enhanced UI and website functionalities through feature implementation and design improvements.
 
----
+Debugged and optimized web applications to improve performance and user experience.
 
-# 🎓 Education
+🎓 Education
 
-### 🎓 Master of Computer Applications — MCA
+🎓 Master of Computer Applications — MCA
 
-**GL Bajaj College of Technology and Management**
+GL Bajaj College of Technology and Management
 
-`2025 – 2027`
+2025 – 2027
 
-**CGPA: 8.30**
+CGPA: 8.30
 
----
+🎓 Bachelor of Computer Applications — BCA
 
-### 🎓 Bachelor of Computer Applications — BCA
+Graphic Era Deemed to be University, Dehradun
 
-**Graphic Era Deemed to be University, Dehradun**
+2022 – 2025
 
-`2022 – 2025`
+CGPA: 7.90
 
-**CGPA: 7.90**
+📚 Class XII
 
----
+DS Public School, Muzaffarnagar
 
-### 📚 Class XII
+2021 – 2022 | 77.8%
 
-**DS Public School, Muzaffarnagar**
+🏅 Certifications
 
-`2021 – 2022` | **77.8%**
+☁️ Microsoft Azure Training
 
----
+Microsoft Learn & FICE — February 2026
 
-# 🏅 Certification
+Completed a 25-hour Microsoft Azure cloud fundamentals training program.
 
-## ☁️ Microsoft Azure Training
+📚 Areas Covered
 
-**Microsoft Learn & FICE — February 2026**
+Azure Virtual Machines • Networking • Storage
 
-Completed a **25-hour Microsoft Azure cloud fundamentals training program**.
+Identity Management • Cloud Deployment • Application Hosting
 
-### 📚 Areas Covered
+🌐 Full-Stack Web Development
 
-`Azure Virtual Machines` • `Networking` • `Storage`
+VOIS & Edunet Foundation — July 2026
 
-`Identity Management` • `Cloud Deployment` • `Application Hosting`
+Completed a certified training program on full-stack web development fundamentals.
 
----
+Gained practical exposure to front-end and back-end development concepts and workflows.
 
-# 🎯 Current Focus
+🤖 Getting Started with Artificial Intelligence
+
+IBM SkillsBuild — July 2026
+
+Completed training covering foundational AI concepts and applications.
+
+Learned core principles of artificial intelligence, real-world use cases, and industry relevance.
+
+Built real-world projects using IBM BOB as part of hands-on training.
+
+🎯 Current Focus
 
 <p align="center">
 
@@ -432,21 +440,22 @@ Completed a **25-hour Microsoft Azure cloud fundamentals training program**.
 
 </p>
 
-### 🚀 Currently Working On
+🚀 Currently Working On
 
-* 🧠 Strengthening **Data Structures & Algorithms**
-* ☕ Improving **Java programming**
-* 🌐 Building **Full Stack applications**
-* 🤖 Exploring **AI & Deep Learning**
-* 🧩 Solving **LeetCode problems**
-* ☁️ Learning **Cloud & Azure technologies**
-* 💼 Preparing for **Software Development roles**
+🧠 Strengthening Data Structures & Algorithms
 
----
+☕ Improving Java & C programming
 
-# 📚 Currently Learning
+🌐 Building Full Stack applications
 
-```text
+🤖 Exploring Artificial Intelligence & Deep Learning
+
+☁️ Learning Microsoft Azure & Databricks
+
+💼 Preparing for entry-level Software Development roles
+
+📚 Currently Learning
+
 Data Structures & Algorithms
           ↓
        Advanced Java
@@ -458,11 +467,8 @@ Data Structures & Algorithms
     Cloud & Azure
           ↓
    Software Engineering
-```
 
----
-
-# 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <p align="center">
 
@@ -478,11 +484,8 @@ Data Structures & Algorithms
 
 </p>
 
----
+🏆 Developer Journey
 
-# 🏆 Developer Journey
-
-```text
        Programming Fundamentals
                   │
                   ▼
@@ -502,41 +505,90 @@ Data Structures & Algorithms
                   │
                   ▼
            Software Engineer 🚀
-```
 
----
+📌 Quick Facts
 
-# 📌 Quick Facts
+🎯
 
-| 🎯                 | Details                                |
-| ------------------ | -------------------------------------- |
-| 🎓 Education       | MCA                                    |
-| 💻 Career Focus    | Software Development                   |
-| 🧠 Core Strength   | DSA & Problem Solving                  |
-| ☕ Programming      | Java & C                               |
-| 🌐 Development     | Full Stack Web Development             |
-| 🤖 AI              | Deep Learning & GPT-4                  |
-| ☁️ Cloud           | Microsoft Azure & Databricks           |
-| 🗄️ Database       | MySQL                                  |
-| 🧩 Coding Platform | LeetCode                               |
-| 🌐 Portfolio       | portfolio-ujjawal809.vercel.app        |
-| 🎯 Career Goal     | Software Developer / Software Engineer |
+Details
 
----
+🎓 Education
 
-# 📂 Featured Repositories
+MCA
 
-| Project                                                                                                    | What It Shows                          | Technology                  |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------------- | --------------------------- |
-| 🧠 [Brain Tumor Detection](https://github.com/ujjawal808/Brain_Tumor_Detection)                            | AI + Computer Vision + Web Development | Python • Flask • TensorFlow |
-| 🧠 [Mental Health Awareness](https://github.com/ujjawal808/Mental-Health-Awareness-and-suicide-prevention) | Social-impact Web Development          | HTML • CSS • JavaScript     |
-| 📰 [Article Summarizer](https://github.com/ujjawal808)                                                     | Full Stack + Generative AI             | React • Node.js • GPT-4     |
-| 🧩 [LeetCode](https://github.com/ujjawal808/Leetcode)                                                      | DSA + Problem Solving                  | Java • DSA                  |
-| 🌐 [Portfolio](https://github.com/ujjawal808/portfolio)                                                    | Personal Branding + Web Development    | React • Vite                |
+💻 Career Focus
 
----
+Software Development
 
-# 🌐 Let's Connect
+🧠 Core Strength
+
+DSA & Problem Solving
+
+☕ Programming
+
+Java & C
+
+🌐 Development
+
+Full Stack Web Development
+
+🤖 AI
+
+Deep Learning & GPT-4 API
+
+☁️ Cloud
+
+Microsoft Azure & Databricks
+
+🗄️ Database
+
+MySQL
+
+🧩 Coding Platform
+
+LeetCode
+
+🌐 Portfolio
+
+portfolio-ujjawal809.vercel.app
+
+🎯 Career Goal
+
+Entry-Level Software Development
+
+📂 Featured Repositories
+
+Project
+
+What It Shows
+
+Technology
+
+🧠 Brain Tumor Detection
+
+AI + Computer Vision + Web Development
+
+Python • Flask • TensorFlow
+
+📰 Article Summarizer
+
+Full Stack + Generative AI
+
+React • Node.js • GPT-4
+
+🧩 LeetCode
+
+DSA + Problem Solving
+
+Java • DSA
+
+🌐 Portfolio
+
+Personal Branding + Web Development
+
+React • Vite
+
+🌐 Let's Connect
 
 <p align="center">
 
@@ -562,9 +614,7 @@ Data Structures & Algorithms
 
 </p>
 
----
-
-# 📄 Resume
+📄 Resume
 
 <p align="center">
 
@@ -578,28 +628,24 @@ Data Structures & Algorithms
 
 </p>
 
----
+🌟 Developer Philosophy
 
-# 🌟 Developer Philosophy
-
-> ### **Think → Code → Solve → Build → Improve**
+Think → Code → Solve → Build → Improve
 
 Strong developers aren't built by learning everything at once.
 
-They are built by **solving problems, building real projects, learning from failures, and improving consistently.**
-
----
+They are built by solving problems, building real projects, learning from failures, and improving consistently.
 
 <div align="center">
 
-## 🌱 Learn • Build • Solve • Grow
+🌱 Learn • Build • Solve • Grow
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=ujjawal808&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"/>
 
 <br><br>
 
-### 🚀 **Consistency is the key to mastery.**
+🚀 Learn consistently. Build practically. Grow continuously.
 
 </div>
