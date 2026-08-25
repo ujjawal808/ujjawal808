@@ -574,7 +574,7 @@ Data Structures & Algorithms
 
 <p align="center">
 
-<a href="https://raw.githubusercontent.com/ujjawal808/ujjawal808/main/UJJAWAL__RESUME.pdf">
+<a href="https://github.com/ujjawal808/ujjawal808/blob/main/UJJAWAL__RESUME.pdf" target="_blank">
 <img src="https://img.shields.io/badge/📄%20VIEW%20RESUME-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
