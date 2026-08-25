@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://github.com/ujjawal808.png" width="160" height="160" alt="Ujjawal Baliyan"/>
@@ -597,4 +596,3 @@ They are built by **solving problems, building real projects, learning from fail
 ### 🚀 **Learn consistently. Build practically. Grow continuously.**
 
 </div>
-```
