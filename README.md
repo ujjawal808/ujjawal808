@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ujjawal808/ujjawal808/blob/main/UJJAWAL__RESUME.pdf" target="_blank">
+<a href="https://github.com/ujjawal808/ujjawal808/blob/main/UJJAWAL__RESUME.pdf">
 <img src="https://img.shields.io/badge/📄%20VIEW%20RESUME-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
@@ -55,6 +55,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
+<br><br>
+
+> **Think logically. Code efficiently. Build consistently. 🚀**
+
 </div>
 
 ---
@@ -78,8 +82,6 @@
 🧩 Practicing coding problems through **LeetCode** to strengthen technical interview skills.
 
 🎯 Preparing for **Software Development / Software Engineer roles**.
-
-> **Think logically. Code efficiently. Build consistently. 🚀**
 
 ---
 
@@ -106,11 +108,25 @@
 
 ---
 
+# 🏆 Achievements & Milestones
+
+| Achievement | Status |
+|---|---|
+| 🧩 LeetCode | **61+ Problems Solved** |
+| 🎓 MCA | **CGPA 8.30** |
+| 💼 Internship | **Full Stack Development — TBI-GEU** |
+| ☁️ Azure Training | **25 Hours Completed** |
+| 🤖 AI Projects | **Deep Learning + GPT-4 Applications** |
+| 🌐 Web Development | **Full Stack Projects Built** |
+
+> 📌 The exact LeetCode count is shown dynamically in the live statistics section below.
+
+---
+
 # 🧠 What I Bring
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### ⚡ Problem Solving
@@ -120,6 +136,7 @@
 - Problem Solving
 - Object-Oriented Programming
 - LeetCode Practice
+- Complexity Analysis
 
 </td>
 
@@ -132,13 +149,12 @@
 - Backend Development
 - API Integration
 - Database Management
+- Responsive Web Development
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🤖 AI & Intelligent Applications
@@ -163,9 +179,88 @@
 - MySQL Workbench
 
 </td>
-
 </tr>
 </table>
+
+---
+
+# 📊 Live LeetCode Statistics
+
+<div align="center">
+
+### 🧠 Current LeetCode Profile
+
+<a href="https://leetcode.com/u/Ujjawalbaliyan/">
+
+<img src="https://leetcard.jacoblin.cool/Ujjawalbaliyan?theme=dark&font=Baloo_2&cache=60" alt="Ujjawal Baliyan LeetCode Statistics"/>
+
+</a>
+
+</div>
+
+> 🔄 **Dynamic statistics:** This card is generated from my LeetCode profile instead of manually maintained numbers.
+>
+> 📌 The exact Easy, Medium, Hard, Total Solved and other available profile statistics are taken from the live card.
+
+---
+
+# 🔥 LeetCode Activity
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Ujjawalbaliyan/">
+
+<img src="https://leetcard.jacoblin.cool/Ujjawalbaliyan?theme=dark&font=Baloo_2&ext=activity&cache=60" alt="LeetCode Activity"/>
+
+</a>
+
+</div>
+
+---
+
+# 🗓️ LeetCode Submission Heatmap
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Ujjawalbaliyan/">
+
+<img src="https://leetcard.jacoblin.cool/Ujjawalbaliyan?theme=dark&font=Baloo_2&ext=heatmap&cache=60" alt="LeetCode Submission Heatmap"/>
+
+</a>
+
+</div>
+
+> 🔥 Use the heatmap to showcase consistency rather than only the number of solved problems.
+
+---
+
+# 🎯 LeetCode Roadmap
+
+```text
+                  🟢 61+ Problems
+                         │
+                         ▼
+                  🎯 100 Problems
+                         │
+                         ▼
+                  🚀 250 Problems
+                         │
+                         ▼
+                  🏆 500 Problems
+                         │
+                         ▼
+                  👑 1000 Problems
+```
+
+| Milestone | Status |
+|---|---|
+| 🟢 50 Problems | ✅ Completed |
+| 🚀 60 Problems | ✅ Completed |
+| 🏆 61+ Problems | ✅ Completed |
+| 💯 100 Problems | 🔄 In Progress |
+| 🚀 250 Problems | ⏳ Planned |
+| 🏆 500 Problems | ⏳ Planned |
+| 👑 1000 Problems | 🎯 Long-Term Goal |
 
 ---
 
@@ -238,7 +333,7 @@ flowchart LR
 
 <p>
 
-<a href="https://github.com/ujjawal808/Brain\_Tumor\_Detection">
+<a href="https://github.com/ujjawal808/Brain_Tumor_Detection">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -346,29 +441,29 @@ flowchart LR
 
 DSA is one of my primary areas of focus while preparing for software engineering interviews.
 
-```
-              PROBLEM
-                 │
-                 ▼
-             UNDERSTAND
-                 │
-                 ▼
-              ANALYZE
-                 │
-                 ▼
-            BRUTE FORCE
-                 │
-                 ▼
-              OPTIMIZE
-                 │
-                 ▼
-             IMPLEMENT
-                 │
-                 ▼
-               TEST
-                 │
-                 ▼
-              IMPROVE
+```text
+               PROBLEM
+                  │
+                  ▼
+              UNDERSTAND
+                  │
+                  ▼
+               ANALYZE
+                  │
+                  ▼
+             BRUTE FORCE
+                  │
+                  ▼
+               OPTIMIZE
+                  │
+                  ▼
+              IMPLEMENT
+                  │
+                  ▼
+                TEST
+                  │
+                  ▼
+               IMPROVE
 ```
 
 ### 🎯 Core Topics
@@ -380,6 +475,10 @@ DSA is one of my primary areas of focus while preparing for software engineering
 `Searching` • `Sorting` • `Recursion`
 
 `Hashing` • `Two Pointers` • `Sliding Window`
+
+`Binary Search` • `Greedy` • `DFS` • `BFS`
+
+`Backtracking` • `Dynamic Programming` • `BST`
 
 ### 🟨 LeetCode
 
@@ -419,7 +518,7 @@ DSA is one of my primary areas of focus while preparing for software engineering
 
 # 🎓 Education
 
-### 🎓 Master of Computer Applications — MCA
+## 🎓 Master of Computer Applications — MCA
 
 **GL Bajaj College of Technology and Management**
 
@@ -429,7 +528,7 @@ DSA is one of my primary areas of focus while preparing for software engineering
 
 ---
 
-### 🎓 Bachelor of Computer Applications — BCA
+## 🎓 Bachelor of Computer Applications — BCA
 
 **Graphic Era Deemed to be University, Dehradun**
 
@@ -439,7 +538,7 @@ DSA is one of my primary areas of focus while preparing for software engineering
 
 ---
 
-### 📚 Class XII
+## 📚 Class XII
 
 **DS Public School, Muzaffarnagar**
 
@@ -483,13 +582,9 @@ Completed a **25-hour Microsoft Azure cloud fundamentals training program**.
 <p align="center">
 
 <img src="https://img.shields.io/badge/DSA-Problem%20Solving-2ea44f?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Java-Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Full%20Stack-Development-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/AI%20%26%20Deep%20Learning-Exploration-6C63FF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 </p>
@@ -508,16 +603,16 @@ Completed a **25-hour Microsoft Azure cloud fundamentals training program**.
 
 # 📚 Currently Learning
 
-```
+```text
 Data Structures & Algorithms
           ↓
        Advanced Java
           ↓
    Full Stack Development
           ↓
-      AI / Deep Learning
+     AI / Deep Learning
           ↓
-    Cloud & Azure
+   Cloud & Azure
           ↓
    Software Engineering
 ```
@@ -545,61 +640,107 @@ Data Structures & Algorithms
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjawal808&theme=tokyonight" width="95%"/>
 
 </p>
+
 ---
 
 # 🏆 Developer Journey
 
-```
+```text
        Programming Fundamentals
                   │
                   ▼
-      Data Structures & Algorithms
+       Data Structures & Algorithms
                   │
                   ▼
-        LeetCode Problem Solving
+         LeetCode Problem Solving
                   │
                   ▼
-        Full Stack Development
+         Full Stack Development
                   │
                   ▼
-          AI-Powered Projects
+           AI-Powered Projects
                   │
                   ▼
-        Cloud & Azure Technologies
+         Cloud & Azure Technologies
                   │
                   ▼
-           Software Engineer 🚀
+            Software Engineer 🚀
 ```
 
 ---
 
 # 📌 Quick Facts
 
-| 🎯Details          |                                        |
-| ------------------ | -------------------------------------- |
-| 🎓 Education       | MCA                                    |
-| 💻 Career Focus    | Software Development                   |
-| 🧠 Core Strength   | DSA & Problem Solving                  |
-| ☕ Programming      | Java & C                               |
-| 🌐 Development     | Full Stack Web Development             |
-| 🤖 AI              | Deep Learning & GPT-4                  |
-| ☁️ Cloud           | Microsoft Azure & Databricks           |
-| 🗄️ Database       | MySQL                                  |
-| 🧩 Coding Platform | LeetCode                               |
-| 🌐 Portfolio       | portfolio-ujjawal809.vercel.app        |
-| 🎯 Career Goal     | Software Developer / Software Engineer |
+| 🎯 Detail | Information |
+|---|---|
+| 🎓 Education | MCA |
+| 💻 Career Focus | Software Development |
+| 🧠 Core Strength | DSA & Problem Solving |
+| ☕ Programming | Java & C |
+| 🌐 Development | Full Stack Web Development |
+| 🤖 AI | Deep Learning & GPT-4 |
+| ☁️ Cloud | Microsoft Azure & Databricks |
+| 🗄️ Database | MySQL |
+| 🧩 Coding Platform | LeetCode |
+| 🌐 Portfolio | portfolio-ujjawal809.vercel.app |
+| 🎯 Career Goal | Software Developer / Software Engineer |
 
 ---
 
 # 📂 Featured Repositories
 
-| Project                                                                                                    | What It Shows                          | Technology                  |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------------- | --------------------------- |
-| 🧠 [Brain Tumor Detection](https://github.com/ujjawal808/Brain_Tumor_Detection)                            | AI + Computer Vision + Web Development | Python • Flask • TensorFlow |
-| 🧠 [Mental Health Awareness](https://github.com/ujjawal808/Mental-Health-Awareness-and-suicide-prevention) | Social-impact Web Development          | HTML • CSS • JavaScript     |
-| 📰 [Article Summarizer](https://github.com/ujjawal808)                                                     | Full Stack + Generative AI             | React • Node.js • GPT-4     |
-| 🧩 [LeetCode](https://github.com/ujjawal808/Leetcode)                                                      | DSA + Problem Solving                  | Java • DSA                  |
-| 🌐 [Portfolio](https://github.com/ujjawal808/portfolio)                                                    | Personal Branding + Web Development    | React • Vite                |
+| Project | What It Shows | Technology |
+|---|---|---|
+| 🧠 [Brain Tumor Detection](https://github.com/ujjawal808/Brain_Tumor_Detection) | AI + Computer Vision + Web Development | Python • Flask • TensorFlow |
+| 🧠 [Mental Health Awareness](https://github.com/ujjawal808/Mental-Health-Awareness-and-suicide-prevention) | Social-impact Web Development | HTML • CSS • JavaScript |
+| 📰 [Article Summarizer](https://github.com/ujjawal808) | Full Stack + Generative AI | React • Node.js • GPT-4 |
+| 🧩 [LeetCode](https://github.com/ujjawal808/Leetcode) | DSA + Problem Solving | Java • DSA |
+| 🌐 [Portfolio](https://github.com/ujjawal808/portfolio) | Personal Branding + Web Development | React • Vite |
+
+---
+
+# 🔎 Recruiter Snapshot
+
+```text
+Software Development
+├── Java / C
+├── Data Structures & Algorithms
+├── Full Stack Web Development
+├── AI & Deep Learning
+└── Microsoft Azure / Databricks
+
+Experience
+└── Full Stack Development Internship — TBI-GEU
+
+Problem Solving
+└── 61+ LeetCode Problems Solved
+
+Featured Work
+├── Brain Tumor Detection & Multi-Class Classification
+├── Mental Health Awareness & Suicide Prevention
+└── Open Article Summarizer using GPT-4
+
+Career Direction
+└── Entry-Level Software Development / AI / Full Stack Roles
+```
+
+---
+
+# 📄 Resume
+
+<p align="center">
+
+<a href="https://github.com/ujjawal808/ujjawal808/blob/main/UJJAWAL__RESUME.pdf">
+<img src="https://img.shields.io/badge/📄%20VIEW%20RESUME-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/ujjawal808/ujjawal808/raw/refs/heads/main/UJJAWAL__RESUME.pdf">
+<img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20RESUME-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -631,47 +772,6 @@ Data Structures & Algorithms
 
 ---
 
-# 🔎 Recruiter Snapshot
-
-```text
-Software Development
-├── Java / C
-├── Data Structures & Algorithms
-├── Full Stack Web Development
-├── AI & Deep Learning
-└── Microsoft Azure / Databricks
-
-Experience
-└── Full Stack Development Internship — TBI-GEU
-
-Featured Work
-├── Brain Tumor Detection & Multi-Class Classification
-├── Mental Health Awareness & Suicide Prevention
-└── Open Article Summarizer using GPT-4
-
-Career Direction
-└── Entry-Level Software Development / AI / Full Stack Roles
-```
-
----
-
-# 📄 Resume
-
-<p align="center">
-
-<a href="https://github.com/ujjawal808/ujjawal808/blob/main/UJJAWAL__RESUME.pdf" target="_blank">
-<img src="https://img.shields.io/badge/📄%20VIEW%20RESUME-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/ujjawal808/ujjawal808/raw/refs/heads/main/UJJAWAL__RESUME.pdf">
-<img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20RESUME-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-</p>
----
-
 # 🌟 Developer Philosophy
 
 > ### **Think → Code → Solve → Build → Improve**
@@ -695,5 +795,3 @@ They are built by **solving problems, building real projects, learning from fail
 ### 🚀 **Learn consistently. Build practically. Grow continuously.**
 
 </div>
-
-Close
